@@ -26,4 +26,4 @@ CLOUDINARY_API_SECRET
 fill each filed with your info respectively
 
 Author
-Rishabh jain
+Gaurav Sisodiya
